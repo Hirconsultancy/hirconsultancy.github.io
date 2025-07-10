@@ -152,7 +152,7 @@ form button:hover {
   background: #e08900;
 }
 
-.contact {
+main{
 
   background: #000;
   color: white;
@@ -162,7 +162,7 @@ form button:hover {
 
 }
 
-.contact:hover {
+main:hover {
   background: #e00000;
 }
 
